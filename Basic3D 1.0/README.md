@@ -1,1 +1,2 @@
-
+# Contents
+Contains the SLN, CS, and CSPROJ, files along with the executable ZIP file. This first version was horrible, collision system was wonky shooting is wrong and enemy spawning is broken. I first planned this last year in December 2025 to be my first 3D FPS shooter in C# Raylib. Unfortunately, I was overshooting and I didn't know what I was doing so I scrapped it, but that later inspired me to make many other projects.
